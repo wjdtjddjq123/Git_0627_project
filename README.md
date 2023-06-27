@@ -1,2 +1,2 @@
-# Git_Learn_project
+# Git_0627_project
 연습용
